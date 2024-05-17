@@ -1,0 +1,7 @@
+data:text/csv;charset=utf-8,Id,metric_alias_metrics_view_graph_0
+StatusCode,Complete
+Messages,
+Full label,eu-west-2:AWS/ApiGateway ApiName:s3-upload-api-eu-west-2 Stage:v1 IntegrationLatency Average 604800
+Label,IntegrationLatency
+2024/05/09 00:00:00,2211.6788461538463
+2024/05/16 00:00:00,1947.900709219858

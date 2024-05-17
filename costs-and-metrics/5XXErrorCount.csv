@@ -1,0 +1,7 @@
+data:text/csv;charset=utf-8,Id,metric_alias_metrics_view_graph_0
+StatusCode,Complete
+Messages,
+Full label,eu-west-2:AWS/ApiGateway ApiName:s3-upload-api-eu-west-2 Stage:v1 5XXError Sum 604800
+Label,5XXError
+2024/05/09 00:00:00,396
+2024/05/16 00:00:00,98

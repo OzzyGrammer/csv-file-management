@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__
+
+# Pytest
+.pytest_cache/
+
+# distutils / setuptools
+
+
+
+
+
+# Vscode
+.vscode/*
+
+# local env
+.env
+
+
+# switch to regexp syntax for ^ (match path starts with):
+syntax: regexp
+deploy/
+.venv/
